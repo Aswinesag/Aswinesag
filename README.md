@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aswin Kumar</h1>
-<h3 align="center">A passionate computer engineering student, Interested in Artificial Intelligence, Machine Learning, and Software Development - Building projects in web development, automation workflows, and AI-based applications</h3>
+<h3 align="center">A passionate computer engineering student
+-Interested in Artificial Intelligence, Machine Learning, and Software Development 
+- Building projects in web development, automation workflows, and AI-based applications
+</h3>
 
 - 📫 How to reach me **aswinkumarak2005@gmail.com**
 
@@ -7,6 +10,7 @@
 <p align="left">
 <a href="https://instagram.com/the._.aswin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the._.aswin" height="30" width="40" /></a>
 </p>
+
 
 <!--
 **Aswinesag/Aswinesag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
