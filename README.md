@@ -7,7 +7,7 @@
 - 🎓 Third-year **Computer Engineering** student  
 - 🤖 Passionate about **AI, Machine Learning, and Intelligent systems**  
 - 🌐 Building projects in **Web Development, Automation, and AI-powered apps**  
-- 🛠 Currently strengthening **DSA**, Python, and C++  
+- 🛠 Currently strengthening **Data science**, and **DSA**, and C++
 - 🎯 Goal: Become a skilled **AI/Software Engineer** creating impactful tech solutions 
 
 - 📫 How to reach me **aswinkumarak2005@gmail.com**
