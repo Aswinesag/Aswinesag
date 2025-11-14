@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aswin Kumar</h1>
 <h3 align="center">A passionate computer engineering student
+
 -Interested in Artificial Intelligence, Machine Learning, and Software Development 
+
 - Building projects in web development, automation workflows, and AI-based applications
 </h3>
 
