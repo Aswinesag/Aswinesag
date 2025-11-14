@@ -1,10 +1,14 @@
 <h1 align="center">Hi 👋, I'm Aswin Kumar</h1>
-<h3 align="center">A passionate computer engineering student
+<h3 align="center">Computer Engineering Student | AI & ML Enthusiast | Web Developer</h3>
 
--Interested in Artificial Intelligence, Machine Learning, and Software Development 
+---
 
-- Building projects in web development, automation workflows, and AI-based applications
-</h3>
+## 👨‍💻 About Me
+- 🎓 Third-year **Computer Engineering** student  
+- 🤖 Passionate about **AI, Machine Learning, and Intelligent systems**  
+- 🌐 Building projects in **Web Development, Automation, and AI-powered apps**  
+- 🛠 Currently strengthening **DSA**, Python, and C++  
+- 🎯 Goal: Become a skilled **AI/Software Engineer** creating impactful tech solutions 
 
 - 📫 How to reach me **aswinkumarak2005@gmail.com**
 
