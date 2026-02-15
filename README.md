@@ -15,7 +15,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/the._.aswin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the._.aswin" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/aswin-kumar-80837935a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="the._.aswin" height="30" width="40" /></a>
+<a href="linkedin.com/in/aswin-kumar-80837935a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aswinkumar2005" height="30" width="40" /></a>
+<a href="https://www.reddit.com/user/aswin-redgiant45/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="aswinkumar2005" height="30" width="40" /></a>
 </p>
 
 
