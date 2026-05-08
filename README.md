@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi 👋, I'm Aswin Kumar<br>Computer Engineering Student | AI & ML Enthusiast | Web Developer<br>👨‍💻 <br>🎓 Third-year Computer Engineering student<br><br>🤖 Passionate about AI, Machine Learning, and Intelligent systems<br><br>🌐 Building projects in Web Development, Automation, and AI-powered apps<br><br>🎯 Goal: Become a skilled AI/Software Engineer creating impactful tech solutions<br><br>📫 How to reach me aswinkumarak2005@gmail.com
+Hi 👋, I'm Aswin Kumar<br>Computer Engineering Student | AI & ML Enthusiast | Web Developer<br> 
+👨‍💻 <br>🎓 Third-year Computer Engineering student<br><br>🤖 Passionate about AI, Machine Learning, and Intelligent systems<br><br>🌐 Building projects in Web Development, Automation, and AI-powered apps<br><br>🎯 Goal: Become a skilled AI/Software Engineer creating impactful tech solutions<br><br>📫 How to reach me aswinkumarak2005@gmail.com
 
 
 ## 🌐 Socials:
