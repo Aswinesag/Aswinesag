@@ -1,43 +1,21 @@
-# 👋 Hi, I'm Aswin Kumar
+# 💫 About Me:
+### 👋 Hi, I'm Aswin Kumar<br><br>I build production engines where real-time event streaming, neural networks, and responsive frontends play nice together—not just on localhost, but under load. <br><br>*   **The Orchestrator:** I wire up distributed microservices with Kafka, treating data streams like high-speed railway networks where latency goes to die.<br>*   **The AI Mechanics:** I don't just prompt models; I look under the hood. I teach PyTorch its own type system, fix runtime circular import crashes in enterprise source code, and swap out predatory commercial APIs for offline vision pipelines to zero out infrastructure bills.<br>*   **The Blueprint:** I map dense, unstructured scientific literature into living, testable causal graphs, transforming raw text into structured machine logic.<br><br>*Currently shipping production code, converting caffeine into scalable architecture and turning "it works on my machine" into a distant memory.*
 
-### Full-Stack Developer & AI Systems Builder
-Building production systems where AI pipelines, real-time data, and clean UI work seamlessly together.
 
----
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/the._.aswin) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aswin-kumar-80837935a) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/aswin-redgiant45) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aswinkumarak2005@gmail.com) 
 
-### 🛠️ Tech Stack & Ecosystem
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=plastic&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=plastic&logo=apachekafka) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=plastic&logo=nVIDIA&logoColor=green) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=plastic&logo=elasticsearch&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=plastic&logo=opengl) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=plastic&logo=radix-ui&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=plastic&logo=streamlit&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=plastic&logo=apache-cassandra&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=plastic&logo=numpy&logoColor=blue) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Aswinesag&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Aswinesag&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Aswinesag&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<!-- Languages -->
-<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
-
-<!-- Frameworks & Backends -->
-<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
-
-<!-- Frontend & Databases -->
-<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
-
----
-
-### ⚡ What I Do Best
-
-*   **🌱 Open Source Core:** Merged PRs into **PyTorch (Meta AI)** to modernize type definitions for Python 3.12 and fix critical runtime circular import crashes blocking CI/CD. Also optimized **WorldMonitor** data pipelines.
-*   **🧠 Intelligent Engines:** Built NLP reasoning pipelines using FAISS and entity/relation extraction to turn research papers into testable causal graphs. Deployed CV classification (CLIP + BLIP) that slashed a $500/month API bill to zero.
-*   **⚙️ Event-Driven Systems:** Engineered a Kafka-driven architecture powering 6 microservices, reliably sustaining 10–50 events/sec at a sharp 1–2s end-to-end latency.
-*   **🎯 Current Focus:** Shipping high-impact production React UI components and Node.js backend workflows as a Full-Stack Dev Intern at SMIE Industries.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
+[![](https://komarev.com/ghpvc/?username=Aswinesag&icon=1&color=0)](https://visitcount.itsvg.in)
 
-### 📈 GitHub Ecosystem Profile
-
-<p align="left">
-  <img height="180" src="https://vercel.app" />
-  <img height="180" src="https://vercel.app" />
-</p>
-
----
-
-### 📫 Let's Connect!
-
-[![Email Badge](https://shields.io)](mailto:aswinkumarak2005@gmail.com)
-[![LinkedIn Badge](https://shields.io)](https://www.linkedin.com/in/aswin-kumar-80837935a/)
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
