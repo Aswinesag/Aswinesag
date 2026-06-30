@@ -1,8 +1,20 @@
-# 💫 About Me:
-### 👋 Hi, I'm Aswin Kumar<br><br>I build production engines where real-time event streaming, neural networks, and responsive frontends play nice together—not just on localhost, but under load. <br><br>*  **The Traffic Controller:** I wire together containerized microservices using Apache Kafka. I treat real-time data streams like high-speed transit networks—routing events with sub-second latency while keeping race conditions entirely off the tracks.
-*   **The Open-Source Mechanic:** I don’t just import frameworks; I debug them. When PyTorch’s type linter or runtime circular imports break enterprise CI/CD, I submit the patch to Meta AI to fix it. 
-*   **The Cost Cutter:** I am highly allergic to bloated cloud bills. I deploy offline vision classification pipelines (CLIP + BLIP) specifically designed to shrink commercial API invoices down to exactly zero dollars.
-*   **The Cartographer:** I build semantic NLP pipelines that ingest chaotic, unstructured research papers and map them into beautifully structured, testable causal graphs.<br><br>*Currently shipping production code, converting caffeine into scalable architecture and turning "it works on my machine" into a distant memory.*
+# 💫 About Me
+
+### 👋 Hi, I'm Aswin Kumar
+
+I build production engines where real-time event streaming, neural networks, and responsive frontends play nice together—not just on localhost, but under load. 
+
+---
+
+*   **🚦 The Traffic Controller:** I wire together containerized microservices using Apache Kafka. I treat real-time data streams like high-speed transit networks—routing events with sub-second latency while keeping race conditions entirely off the tracks.
+*   **🔧 The Open-Source Mechanic:** I don’t just import frameworks; I debug them. When PyTorch’s type linter or runtime circular imports break enterprise CI/CD, I submit the patch to Meta AI to fix it. 
+*   **💸 The Cost Cutter:** I am highly allergic to bloated cloud bills. I deploy offline vision classification pipelines (CLIP + BLIP) specifically designed to shrink commercial API invoices down to exactly zero dollars.
+*   **🗺️ The Cartographer:** I build semantic NLP pipelines that ingest chaotic, unstructured research papers and map them into beautifully structured, testable causal graphs.
+
+---
+
+*Currently shipping production code, converting caffeine into scalable architecture and turning "it works on my machine" into a distant memory.*
+
 
 
 ## 🌐 Socials:
