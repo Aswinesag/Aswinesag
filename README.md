@@ -2,18 +2,13 @@
 
 ### 👋 Hi, I'm Aswin Kumar
 
-I build production engines where real-time event streaming, neural networks, and responsive frontends play nice together—not just on localhost, but under load. 
+I build production systems where real-time event streaming, applied ML, and responsive frontends hold up under real load — not just on localhost.
 
----
+- **Real-time systems:** I wire containerized microservices together with Kafka, routing event streams with sub-second latency — NightWatch Atlas sustains 10-50 events/sec across 6 services with a hybrid PostgreSQL + Elasticsearch backend.
+- **Applied ML, made explainable:** From RAG pipelines that extract evidence-backed causal graphs from research papers, to PyTorch anomaly detectors with Captum-based explainability — I build ML that shows its work, not just its output.
+- **Open-source contributor:** I've had a PR merged into PyTorch (Meta AI), fixing Python 3.12 type-checking failures and CI/CD issues in their production pipeline.
 
-*   **🚦 The Traffic Controller:** I wire together containerized microservices using Apache Kafka. I treat real-time data streams like high-speed transit networks—routing events with sub-second latency while keeping race conditions entirely off the tracks.
-*   **🔧 The Open-Source Mechanic:** I don’t just import frameworks; I debug them. When PyTorch’s type linter or runtime circular imports break enterprise CI/CD, I submit the patch to Meta AI to fix it. 
-*   **💸 The Cost Cutter:** I am highly allergic to bloated cloud bills. I deploy offline vision classification pipelines (CLIP + BLIP) specifically designed to shrink commercial API invoices down to exactly zero dollars.
-*   **🗺️ The Cartographer:** I build semantic NLP pipelines that ingest chaotic, unstructured research papers and map them into beautifully structured, testable causal graphs.
-
----
-
-*Currently shipping production code, converting caffeine into scalable architecture and turning "it works on my machine" into a distant memory.*
+*Currently shipping production code and turning "it works on my machine" into a distant memory.*
  
 # 💻 Tech Stack:
 
