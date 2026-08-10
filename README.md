@@ -6,7 +6,7 @@ I build production systems where real-time event streaming, applied ML, and resp
 
 - **Real-time systems:** I wire containerized microservices together with Kafka, routing event streams with sub-second latency — NightWatch Atlas sustains 10-50 events/sec across 6 services with a hybrid PostgreSQL + Elasticsearch backend.
 - **Applied ML, made explainable:** From RAG pipelines that extract evidence-backed causal graphs from research papers, to PyTorch anomaly detectors with Captum-based explainability — I build ML that shows its work, not just its output.
-- **Open-source contributor:** I've had a PR merged into PyTorch (Meta AI), fixing Python 3.12 type-checking failures and CI/CD issues in their production pipeline.
+- **Open-source contributor:** I've had contribution to PyTorch (Meta AI), fixing Python 3.12 type-checking failures and CI/CD issues in their production pipeline.
 
 *Currently shipping production code and turning "it works on my machine" into a distant memory.*
  
